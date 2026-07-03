@@ -14,7 +14,7 @@ airbnb-clone-theta-woad-84.vercel.app
 ## ✨ Features
 - Responsive navbar with category tabs (All, Homes, Experiences, Services)
 - Functional search bar (Where / When / Who)
-- Property listing cards across 5 city sections (Noida, Dehradun, Delhi, Goa, Shimla)
+- Property listing cards across 5 city sections (Chandigarh, Dehradun, Delhi, Goa, Shimla)
 - **Dark mode toggle** — switches the entire UI theme using React state and a ShadCN Switch component
 - **Wishlist/favourite toggle** — clicking the heart icon on any property card saves it to a wishlist and shows a toast notification (ShadCN Sonner)
 - Clean footer with organized links
