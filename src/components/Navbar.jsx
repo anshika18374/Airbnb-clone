@@ -24,7 +24,7 @@ return (
         <span className="text-2xl font-bold ml-1">airbnb</span>
       </div>
 
-      <div className="flex gap-8 font-medium">
+        <div className="hidden md:flex gap-8 font-medium">
         <div className="flex flex-col items-center cursor-pointer hover:text-red-500">
           <GiEarthAmerica size={22} className="text-blue-500" />
           <span className="text-sm mt-1">All</span>

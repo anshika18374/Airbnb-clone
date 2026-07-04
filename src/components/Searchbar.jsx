@@ -2,8 +2,8 @@ import { FaSearch } from "react-icons/fa";
 
 function Searchbar() {
   return (
-    <div className="flex justify-center py-4">
-      <div className="flex items-center border rounded-full shadow-md px-2 py-2 gap-2 w-full max-w-2xl">
+    <div className="flex justify-center py-4 px-4">
+      <div className="flex flex-col sm:flex-row items-center border rounded-full sm:rounded-full shadow-md px-2 py-2 gap-2 w-full max-w-2xl">
         
         <div className="flex flex-col px-4 border-r">
           <span className="text-xs font-bold">Where</span>
